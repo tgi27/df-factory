@@ -1,0 +1,9 @@
+{
+	"name": "trishaazurefactory",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "eastus"
+}
